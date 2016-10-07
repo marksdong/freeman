@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2016-10-07T21:42:14+08:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Moon Bitcoin 免挖矿赚比特币]]></title>
+    <link href="http://yoursite.com/blog/2016/10/07/moon-bitcoin-free-bitcoin-faucet/"/>
+    <updated>2016-10-07T17:49:48+08:00</updated>
+    <id>http://yoursite.com/blog/2016/10/07/moon-bitcoin-free-bitcoin-faucet</id>
+    <content type="html"><![CDATA[<script src="//www.adsptp.com/16366-728x90.js"></script>
+
+
+
+
+<script src="//www.adsptp.com/16366-160x600.js"></script>
+
+
+<h3>Moon Bitcoin 免挖矿赚比特币</h3>
+
+<h6>比特币水龙头是什么？</h6>
+
+<p>简而言之，比特币水龙头就是一个会给访问者分发少量比特币的网站。数量从100聪到10000聪不等。</p>
+
+<p>通常你收到币以后需要等待一定时间才能获得下一次奖励。最初的比特币水龙头由Gavin Andresen创办，他是比特币的主要创始科学家。它大概在2010年晚些时间开始出现，免费给每位访问者5个比特币。那时候每个比特币大概值0.08美元。整个想法是为了传播世界首个加密货币。</p>
+
+<h6>关于Moon Bitcoin</h6>
+
+<p>Moon Bitcoin 应该算是个很有创意的比特币水龙头项目，站点标题翻译过来为月亮比特币，乍一看让人感到很是奇葩，但细细看下站点的界面和运营方式，就会发现该站称之为月亮比特币的确是名符其实。先就站点的界面来说，背景完全选择的是月球的表面图像，加之黑色的前景，给人一种凝重深远的感觉，这样的界面本身就是月亮的真实面目；再就运营方式来说，只要用你的比特币钱包地址登录一次，就算注册成功，只要不登出，就算你关闭网站，不开电脑晚上睡觉，站点也会自动时时送你比特币，就像月亮在夜深人静的时候会悄悄出现照亮夜路一样。</p>
+
+<script src="//www.adsptp.com/16366-300x250.js"></script>
+
+
+<h6>注册和操作方法</h6>
+
+<p>首先点击 <a href="http://moonbit.co.in/?ref=f8dc15069a6c">Moon Bitcoin</a> 进入网站，看到如下界面：</p>
+
+<p><img src="http://yoursite.com/images/moonbitcoin01.png" alt="image" /></p>
+
+<p>在方框内粘贴你的比特币钱包地址或者使用Xapo钱包，再点击其后的sign in (登入)按钮，点击后就会进入你的月亮比特币账户，界面如下：</p>
+
+<p><img src="http://yoursite.com/images/moonbitcoin02.png" alt="image" /></p>
+
+<p>我的Moon Bitcoin账户里目前还有131思聪未申请支付，这个金额就是在我9个钟头未曾打开站点的时候自动发送的。当然如果是新注册的账户刚开始是没有比特币的，但只要你登录账户稍等一会，就会看到随着时间的累积你的比特币就会不断增加，的确是时时免费送你比特币。不过这里的比特币金额都是未确认的，这里还需一步，就是将其转移到你的账户余额。这里的操作很简单，如上图点击未确认金额下方的claim now（立即申请），点击后弹出如下验证窗口：</p>
+
+<p><img src="http://yoursite.com/images/moonbitcoin03.png" alt="image" /></p>
+
+<p>准确填入验证码：</p>
+
+<p><img src="http://yoursite.com/images/moonbitcoin04.png" alt="image" /></p>
+
+<p>然后点击submit提交验证，页面返回后可以看到积累的比特币增加了。</p>
+
+<script src="//www.adsptp.com/16366-468x60.js"></script>
+
+
+
+
+<script src="//www.adsptp.com/16366-siteunder.js"></script>
+
+]]></content>
+  </entry>
+  
+</feed>
