@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2016-10-08T11:37:28+08:00</updated>
+  <updated>2016-10-08T11:45:07+08:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,14 +14,12 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Moon-litecoin-free-litecoin-faucet]]></title>
+    <title type="html"><![CDATA[Moon Litecoin 免费赚取莱特币]]></title>
     <link href="http://yoursite.com/blog/2016/10/08/moon-litecoin-free-litecoin-faucet/"/>
     <updated>2016-10-08T11:24:27+08:00</updated>
     <id>http://yoursite.com/blog/2016/10/08/moon-litecoin-free-litecoin-faucet</id>
     <content type="html"><![CDATA[<script src="//www.adsptp.com/16366-728x90.js"></script>
 
-
-<h3>Moon Litecoin 免费赚取莱特币</h3>
 
 <p>这个站点是可以免费赚取虚拟数字货币的平台。站长通过挂广告的方式盈利，然后将其中一部分广告盈利（基本上也是虚拟数字货币）所得发放给站点的注册会员。</p>
 
@@ -72,8 +70,6 @@
     <id>http://yoursite.com/blog/2016/10/07/moon-bitcoin-free-bitcoin-faucet</id>
     <content type="html"><![CDATA[<script src="//www.adsptp.com/16366-728x90.js"></script>
 
-
-<h3>Moon Bitcoin 免挖矿赚比特币</h3>
 
 <h6>比特币水龙头是什么？</h6>
 
