@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2016-10-08T11:45:07+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[自由人]]></title>
+  <link href="https://marksdong.github.io//atom.xml" rel="self"/>
+  <link href="https://marksdong.github.io//"/>
+  <updated>2016-10-08T15:32:43+08:00</updated>
+  <id>https://marksdong.github.io//</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[marks.dong]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,10 +15,23 @@
   
   <entry>
     <title type="html"><![CDATA[Moon Litecoin 免费赚取莱特币]]></title>
-    <link href="http://yoursite.com/blog/2016/10/08/moon-litecoin-free-litecoin-faucet/"/>
+    <link href="https://marksdong.github.io//blog/2016/10/08/moon-litecoin-free-litecoin-faucet/"/>
     <updated>2016-10-08T11:24:27+08:00</updated>
-    <id>http://yoursite.com/blog/2016/10/08/moon-litecoin-free-litecoin-faucet</id>
-    <content type="html"><![CDATA[<script src="//www.adsptp.com/16366-728x90.js"></script>
+    <id>https://marksdong.github.io//blog/2016/10/08/moon-litecoin-free-litecoin-faucet</id>
+    <content type="html"><![CDATA[<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?970392c3910cc0c6ffb43bbbebcac4e3";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+
+
+<script src="//www.adsptp.com/16366-728x90.js"></script>
 
 
 <p>这个站点是可以免费赚取虚拟数字货币的平台。站长通过挂广告的方式盈利，然后将其中一部分广告盈利（基本上也是虚拟数字货币）所得发放给站点的注册会员。</p>
@@ -29,7 +42,7 @@
 
 <p>和比特币、狗狗币一样，赚取莱特币，首先需要一个莱特币的收款地址，点击<a href="https://litecoin.org/">https://litecoin.org/</a>进入莱特币官网，在语言栏选择“中文”将页面转为中文简体，根据操作系统下载安装下本地钱包，打开后点击“文件”下方的“正在接收地址&reg;…”即可看到你的莱特币收款地址。</p>
 
-<p><img src="http://yoursite.com/images/moonlitecoin01.png" alt="image" /></p>
+<p><img src="https://marksdong.github.io//images/moonlitecoin01.png" alt="image" /></p>
 
 <p>右键复制地址，同时也可以编辑地址，给地址添加标签，以便区分。如果想获得新地址，点“接收”→“请求付款”就会生成新的莱特币地址，这个地址也会自动保存到“正在接收地址&reg;…”中。有了收款地址后，记得及时备份下你的莱特币钱包，在“文件”下方点击“备份钱包”即可，保存类型为“钱包文件(*.dat)”，文件名随便起，以后导入的话文件名改成“wallet”，后缀为“.dat”不变。</p>
 
@@ -37,19 +50,19 @@
 
 <p>点击【<a href="http://moonliteco.in/?ref=e8ef6b98de8a">Moon Litecoin</a>】进入站点，在方框粘贴你的莱特币钱包地址。</p>
 
-<p><img src="http://yoursite.com/images/moonlitecoin02.png" alt="image" /></p>
+<p><img src="https://marksdong.github.io//images/moonlitecoin02.png" alt="image" /></p>
 
 <p>点击“sign in”登入，点击“进行人机身份验证”，按照要求选择相应的图片后，点“submit”提交。</p>
 
-<p><img src="http://yoursite.com/images/moonlitecoin03.png" alt="image" /></p>
+<p><img src="https://marksdong.github.io//images/moonlitecoin03.png" alt="image" /></p>
 
 <p>进入站点后，可以看到“Current claim amount:”下方以思聪为单位的莱特币每秒都在增加，“You are signed in as:”是你登入账户的莱特币地址。</p>
 
-<p><img src="http://yoursite.com/images/moonlitecoin04.png" alt="image" /></p>
+<p><img src="https://marksdong.github.io//images/moonlitecoin04.png" alt="image" /></p>
 
 <p>保持窗口不关闭，在“Alert me when it’s time to claim (change settings)”前方框打钩，等到有提醒或是自己觉得可以收回莱特币时，点击“claim now”。</p>
 
-<p><img src="http://yoursite.com/images/moonlitecoin05.png" alt="image" /></p>
+<p><img src="https://marksdong.github.io//images/moonlitecoin05.png" alt="image" /></p>
 
 <p>输入验证码，和登录时一样，提交后，所得莱特币才会真正进入你的账户余额，这个也就是站点增加粘度的方式，毕竟站点的收入靠的是广告。同时“Current claim amount:”下方莱特币又开始从0开始增加啦，周而复始，是不是有点意思。进入账户的莱特币余额达到最低起付500000思聪，每周自动支付。</p>
 
@@ -65,10 +78,23 @@
   
   <entry>
     <title type="html"><![CDATA[Moon Bitcoin 免挖矿赚比特币]]></title>
-    <link href="http://yoursite.com/blog/2016/10/07/moon-bitcoin-free-bitcoin-faucet/"/>
+    <link href="https://marksdong.github.io//blog/2016/10/07/moon-bitcoin-free-bitcoin-faucet/"/>
     <updated>2016-10-07T17:49:48+08:00</updated>
-    <id>http://yoursite.com/blog/2016/10/07/moon-bitcoin-free-bitcoin-faucet</id>
-    <content type="html"><![CDATA[<script src="//www.adsptp.com/16366-728x90.js"></script>
+    <id>https://marksdong.github.io//blog/2016/10/07/moon-bitcoin-free-bitcoin-faucet</id>
+    <content type="html"><![CDATA[<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?970392c3910cc0c6ffb43bbbebcac4e3";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+
+
+<script src="//www.adsptp.com/16366-728x90.js"></script>
 
 
 <h6>比特币水龙头是什么？</h6>
@@ -85,19 +111,19 @@
 
 <p>首先点击 <a href="http://moonbit.co.in/?ref=f8dc15069a6c">Moon Bitcoin</a> 进入网站，看到如下界面：</p>
 
-<p><img src="http://yoursite.com/images/moonbitcoin01.png" alt="image" /></p>
+<p><img src="https://marksdong.github.io//images/moonbitcoin01.png" alt="image" /></p>
 
 <p>在方框内粘贴你的比特币钱包地址或者使用Xapo钱包，再点击其后的sign in (登入)按钮，点击后就会进入你的月亮比特币账户，界面如下：</p>
 
-<p><img src="http://yoursite.com/images/moonbitcoin02.png" alt="image" /></p>
+<p><img src="https://marksdong.github.io//images/moonbitcoin02.png" alt="image" /></p>
 
 <p>我的Moon Bitcoin账户里目前还有131思聪未申请支付，这个金额就是在我9个钟头未曾打开站点的时候自动发送的。当然如果是新注册的账户刚开始是没有比特币的，但只要你登录账户稍等一会，就会看到随着时间的累积你的比特币就会不断增加，的确是时时免费送你比特币。不过这里的比特币金额都是未确认的，这里还需一步，就是将其转移到你的账户余额。这里的操作很简单，如上图点击未确认金额下方的claim now（立即申请），点击后弹出如下验证窗口：</p>
 
-<p><img src="http://yoursite.com/images/moonbitcoin03.png" alt="image" /></p>
+<p><img src="https://marksdong.github.io//images/moonbitcoin03.png" alt="image" /></p>
 
 <p>准确填入验证码：</p>
 
-<p><img src="http://yoursite.com/images/moonbitcoin04.png" alt="image" /></p>
+<p><img src="https://marksdong.github.io//images/moonbitcoin04.png" alt="image" /></p>
 
 <p>然后点击submit提交验证，页面返回后可以看到积累的比特币增加了。</p>
 
